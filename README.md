@@ -13,7 +13,7 @@
 ### Prerequisites
 Для работы с программой необходим компьютер и интернет. 
 
-```
+```bash
 mycomp$ cd /tmp
 mycomp$ mkdir exercise
 ```
@@ -26,7 +26,7 @@ mycomp$ mkdir exercise
 1. остановите еще
 1. выключите компьютер
 
-```
+```bash
 mycomp$ install.sh
 mycomp$ start.sh
 mycomp$ stop.sh
